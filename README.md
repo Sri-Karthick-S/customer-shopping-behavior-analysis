@@ -2,6 +2,9 @@
 
 Analysed 3,900 retail transactions using Python, PostgreSQL, and Power BI to uncover customer segments, discount dependency patterns, and subscription behaviour driving business recommendations.
 
+<img width="1341" height="727" alt="image" src="https://github.com/user-attachments/assets/8d54f39a-f0ea-4f5a-a38e-c0c383e5c232" />
+
+
 ## Project Overview
 
 A retail company wanted to better understand what drives customer purchasing decisions across demographics, product categories, and sales channels. Using transactional data covering 3,900 purchases, this project explores spending patterns, customer loyalty, discount effectiveness, and subscription behaviour to support data-driven marketing and product strategy.
